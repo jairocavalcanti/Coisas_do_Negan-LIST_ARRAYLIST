@@ -15,13 +15,4 @@ public class Suprimentos {
     public void setAlimentos(String alimentos) {
         this.alimentos = alimentos;
     }
- 
-     
-
-
-
-
-   
-  
-    
-}
+  }
