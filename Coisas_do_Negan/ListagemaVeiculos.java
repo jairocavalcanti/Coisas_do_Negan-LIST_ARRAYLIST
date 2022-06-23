@@ -32,14 +32,8 @@ public class ListagemaVeiculos {
     for(Veiculos s : listvei ){
         System.out.println("Veiculos Capturados:--" + s.getModelo());
         }
+      }
     }
-    
-
-
-  
-
-   
- }
 
     
 
