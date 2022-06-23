@@ -25,12 +25,10 @@ public static void imprimirlista(List<Suprimentos> listasups){
     for (Suprimentos s : listasups){
     System.out.println("Reservas:--" +  s.getAlimentos());
     }
- }
+}
 private static void contador(){
 for (int x = 0; x < 1; x++ ){
    System.out.println("\\\\ESTOQUE_DOS_SALVADORES\\\\"); 
-   }
- }
-
-
+    }
+  }
 }
