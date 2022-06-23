@@ -30,7 +30,5 @@ private static void aviso(){
     for(int x= 0; x<3; x++){
         System.out.println("!!Sujeito a punição SEVERA em caso de roubo!!");
     }
-
-}
-
+  }
 }
